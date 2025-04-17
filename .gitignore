@@ -139,6 +139,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv-3.13.2
+venv-3.13.2/
+venv-3.12
+venv-3.12/
 
 # Spyder project settings
 .spyderproject
@@ -185,6 +189,7 @@ bower_components
 psd
 thumb
 sketch
+requirements.txt
 
 
 
